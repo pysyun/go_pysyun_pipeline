@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/pysyun/go_pysyun_pipeline/pipeline"
+	pysyun "github.com/pysyun/go_pysyun_pipeline"
 )
 
 // ---------------------------------------------------------------------------
