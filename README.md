@@ -13,6 +13,8 @@ This package ports two Python libraries to idiomatic Go:
 Python's `ThreadPoolExecutor` and `asyncio` are replaced by **goroutines** and `sync.WaitGroup` with a channel-based
 semaphore for concurrency control.
 
+<img src="signal-pipeline.png" alt="PySyun Pipeline & PySyun Chain" />
+
 ## Installation
 
 ```bash
