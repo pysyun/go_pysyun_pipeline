@@ -199,6 +199,10 @@ with 8 goroutines), graph fan-out, and profiling.
 
 LGPL-2.1 — same as [pysyun_chain](https://github.com/pysyun/pysyun_chain).
 
+## Project's text corpus, LLM Integration
+
+[corpus.md](corpus.md) contains a compact description of this project intended for LLMs integrating it into other projects.
+
 ## Credits
 
 **© [PySyun](https://github.com/pysyun)**
